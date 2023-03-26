@@ -15,9 +15,9 @@ I am using a floating button to add images from phone galary. The display in lis
 
 <p>Below is how data enty point looks like :</p>
 
-<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry"/>&nbsp
-<img src="https://github.com/WahomeKezia/Assets/blob/main/OpensGalary.png" title="Galary" alt="Galary"/>&nbsp
-<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151505.png" title="Image" alt="Image"/>&nbsp;
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry"/>
+<img src="https://github.com/WahomeKezia/Assets/blob/main/OpensGalary.png" title="Galary" alt="Galary"/>
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151505.png" title="Image" alt="Image"/>
 
 </div>
 
