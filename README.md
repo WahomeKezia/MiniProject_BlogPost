@@ -10,7 +10,7 @@
 This is a flutter Blog Page , that implements Memory and Storage Concepts
 <div>
 <p> About:The home page is a photo galary with the author's name , name of the phot and a describtion 
-I am using a floating button to add images from phone galary. The Data is stored in firebase </p>
+I am using a floating button to add images from phone galary. The display in list view . </p>
 
 <p>Below is how data enty point looks like :</p>
 
