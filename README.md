@@ -9,11 +9,11 @@
 # MiniProject_BlogPost
 This is a flutter Blog Page , that implements Memory and Storage Concepts
 <div>
-<p> About:The home page is a photo galary with the author's name , name and a describtion 
-I am using a floating button to add images from phone galary . The Data is stored in firebase </p>
-Below is how data enty point looks like :
+<p> About:The home page is a photo galary with the author's name , name of the phot and a describtion 
+I am using a floating button to add images from phone galary. The Data is stored in firebase </p>
 
- <img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" 
+Below is how data enty point looks like :
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry" width="100" height="100"/>&nbsp;
  
 </div>
 
