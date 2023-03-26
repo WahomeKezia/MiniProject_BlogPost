@@ -14,7 +14,7 @@ I am using a floating button to add images from phone galary. The Data is stored
 
 <p>Below is how data enty point looks like :</p>
 
-<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry" width="100" height="100"/>&nbsp;
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry"/>&nbsp;
  
 </div>
 
