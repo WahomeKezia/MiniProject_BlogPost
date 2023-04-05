@@ -10,8 +10,8 @@
 This is a flutter Blog Page , that implements Firebase Authentification ,Memory and Storage Concepts
 
 <div>
-<p> About:The home page is a photo galary with the author's name , name of the phot and a describtion 
-I am using a floating button to add images from phone galary. </p>
+<p> About:The home page is a photo galary with the author's name , name of the photo and a describtion 
+I am using image picker plugin to add images from phone galary. </p>
 <p> A user can also decided to add text only on the blog page. </P>
 
 <p>Below is how data entry points looks like from sign up/sign in  to the first blog :</p>
