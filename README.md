@@ -14,7 +14,7 @@ This is a flutter Blog Page , that implements Memory and Storage Concepts
 I am using a floating button to add images from phone galary. </p>
 
 <p>Below is how data enty points looks like :</p>
-
+<img src="https://github.com/WahomeKezia/Assets/blob/main/home.png" title="Image" alt="Image" width="200" height="300"/>
 <img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry" width="200" height="300"/>&nbsp;
 <img src="https://github.com/WahomeKezia/Assets/blob/main/OpensGalary.png" title="Galary" alt="Galary"  width="200" height="300"/>
 <img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151505.png" title="Image" alt="Image" width="200" height="300"/>
