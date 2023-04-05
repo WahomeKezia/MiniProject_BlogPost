@@ -7,18 +7,21 @@
   </div>
   
 # MiniProject_BlogPost
-This is a flutter Blog Page , that implements Memory and Storage Concepts
+This is a flutter Blog Page , that implements Firebase Authentification ,Memory and Storage Concepts
 
 <div>
 <p> About:The home page is a photo galary with the author's name , name of the phot and a describtion 
 I am using a floating button to add images from phone galary. </p>
+<p> A user can also decided to add text only on the blog page. </P>
 
 <p>Below is how data enty points looks like :</p>
-<img src="https://github.com/WahomeKezia/Assets/blob/main/home.png" title="Image" alt="Image" width="200" height="300"/>
-<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry" width="200" height="300"/>&nbsp;
-<img src="https://github.com/WahomeKezia/Assets/blob/main/OpensGalary.png" title="Galary" alt="Galary"  width="200" height="300"/>
-<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151505.png" title="Image" alt="Image" width="200" height="300"/>
-
+<img src="https://github.com/WahomeKezia/Assets/blob/main/home.png" title="Image" alt="Image" width="200" height="350"/>
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Credentials.png" title="Image" alt="Image" width="200" height="350"/>
+<img src="https://github.com/WahomeKezia/Assets/blob/main/InvalidCredentials.png" title="Image" alt="Image" width="200" height="350"/>
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151210.png" title="Entry" alt="Entry" width="200" height="350"/>&nbsp;
+<img src="https://github.com/WahomeKezia/Assets/blob/main/OpensGalary.png" title="Galary" alt="Galary"  width="200" height="350"/>
+<img src="https://github.com/WahomeKezia/Assets/blob/main/Screenshot%202023-03-26%20151505.png" title="Image" alt="Image" width="200" height="350"/>
+  
 </div>
 
 The selected image gets uplaoded and later displayed on the home screen in List View
