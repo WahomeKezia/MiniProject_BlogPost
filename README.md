@@ -14,7 +14,7 @@ This is a flutter Blog Page , that implements Firebase Authentification ,Memory 
 I am using a floating button to add images from phone galary. </p>
 <p> A user can also decided to add text only on the blog page. </P>
 
-<p>Below is how data enty points looks like :</p>
+<p>Below is how data entry points looks like from sign up/sign in  to the first blog :</p>
 <img src="https://github.com/WahomeKezia/Assets/blob/main/home.png" title="Image" alt="Image" width="200" height="350"/>
 <img src="https://github.com/WahomeKezia/Assets/blob/main/Credentials.png" title="Image" alt="Image" width="200" height="350"/>
 <img src="https://github.com/WahomeKezia/Assets/blob/main/InvalidCredentials.png" title="Image" alt="Image" width="200" height="350"/>
